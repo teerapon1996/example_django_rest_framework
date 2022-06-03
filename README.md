@@ -24,7 +24,7 @@ You will see docker-compose.yml this path
 
 Command to django/ Folder
 ```
-    cd dajngo/
+    cd django/
 ```
 Command.. Run Docker Compose **First Time
 ```
